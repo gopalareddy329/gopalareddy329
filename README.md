@@ -3,6 +3,10 @@
 </div>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalareddy329&label=Profile%20views&color=0e75b6&style=flat" alt="gopalareddy329" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalareddy329" alt="gopalareddy329" /></a> </p>
+
 -  I’m currently working on **Django **
 
 -  I’m currently learning **Advanced web development techni techniques**
