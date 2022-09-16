@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalareddy329&label=Profile%20views&color=0e75b6&style=flat" alt="gopalareddy329" /> </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif"/>
 </div>
 
 
