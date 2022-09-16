@@ -10,7 +10,7 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" alt="c" width="200" height="300"/>
+<img align="right" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" alt="c" width="300" height="400"/>
 
 - 🔭 I’m currently working on [Django](https://github.com/gopalareddy329/News-web-site.git)
 
