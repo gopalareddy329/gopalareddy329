@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalareddy329&label=Profile%20views&color=0e75b6&style=flat" alt="gopalareddy329" /> </p>
 
-<div align="right" width="400">
+<div align="right" width="100">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif"/>
 </div>
 
-
+<img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" alt="c" width="40" height="40"/>
 
 - 🔭 I’m currently working on [Django](https://github.com/gopalareddy329/News-web-site.git)
 
