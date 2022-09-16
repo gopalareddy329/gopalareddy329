@@ -3,15 +3,15 @@
 </div>
 
 
-- 🔭 I’m currently working on **Research Project on Satellite Imagery Analysis and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**
+-  I’m currently working on **Django **
 
-- 🌱 I’m currently learning **Advanced Computer Vision ,Embedded Systems**
+-  I’m currently learning **Advanced web development techni techniques**
 
-- 👯 I’m looking to collaborate on **Innovative Projects ,Research in AI, Hackathon , Data Science Hackathon**
+-  I’m looking to collaborate on **Challenging Projects,New Inovations, Devolopemnt Projects**
 
-- 💬 Ask me about **Python ,Machine Learning ,Deep Learning, Computer Vision, Natural Language Processing, Arduino Programming**
+-  Ask me about **Python , C, C++, Djnago, Flask, Html, Css**
 
-- 📫 How to reach me **hrthikredy2002@gmail.com**
+-  How to reach me **pmallireddy329.com**
 
 <div id="badges">
   <a href="your-linkedin-URL">
