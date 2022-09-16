@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalareddy329&label=Profile%20views&color=0e75b6&style=flat" alt="gopalareddy329" /> </p>
 
-<p align="rigth"> <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="gopalareddy329" /> </p>
+<p align="rigth"> <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif"/> </p>
+
+
 - 🔭 I’m currently working on [Django](https://github.com/gopalareddy329/News-web-site.git)
 
 - 🌱 I’m currently learning **Advanced web development techniques**
