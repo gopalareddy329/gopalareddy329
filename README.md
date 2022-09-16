@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced web development techniques**
 
-- 👯 I’m looking to collaborate on [Challenging Projects,New Innovations, Development Projects](https://github.com/gopalareddy329/AI-Powered-Online-Exam-Project.git)
+- 👯 I’m looking to collaborate on [Challenging Projects,New Innovations](https://github.com/gopalareddy329/AI-Powered-Online-Exam-Project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopalareddy329](https://github.com/gopalareddy329)
 
