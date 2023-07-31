@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopalareddy329](https://github.com/gopalareddy329)
 
-- 💬 Ask me about **Python , C, C++, Django, Flask, Html, Css, JavaScript, Sockets, Threads, Django-Channels, Django-Rest-Frame-Work**
+- 💬 Ask me about **Python , C, C++, Django, React, Sql, Postgre Sql, Html, Css, JavaScript, Sockets, Threads, Django-Channels, Django-Rest-Frame-Work**
 
 - 📫 How to reach me **pmallireddy329@gmail.com**
 
