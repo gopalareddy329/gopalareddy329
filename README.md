@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50">, I'm Gopala Reddy</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" width="30">, I'm Gopala Reddy</h1>
 <h3 align="center">A passionate frontend-backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalareddy329&label=Profile%20views&color=0e75b6&style=flat" alt="gopalareddy329" /> </p>
