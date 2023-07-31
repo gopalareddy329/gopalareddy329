@@ -40,8 +40,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalareddy329&theme=2077"  width="100%" height="auto"  alt="Yearly Contribution Graph" >
     
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gopalareddy329&show_icons=true&theme=radical&locale=en&layout=compact" alt="gopalareddy329" /></p>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gopalareddy329&show_icons=true&theme=radical&locale=en&layout=compact" alt="gopalareddy329" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gopalareddy329&show_icons=true&theme=radical&locale=en" alt="gopalareddy329" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gopalareddy329&show_icons=true&theme=radical&locale=en" alt="gopalareddy329" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalareddy329&theme=radical" alt="gopalareddy329" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalareddy329&theme=radical" alt="gopalareddy329" />
