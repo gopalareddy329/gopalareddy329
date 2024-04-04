@@ -12,15 +12,15 @@
 
 <img align="right" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" alt="c" width="300" height="400"/>
 
-- 🔭 I’m currently working on [Django](https://github.com/gopalareddy329/News-web-site.git)
+- 🔭 I’m currently working on [Django,React](https://github.com/gopalareddy329/watchfree.git)
 
 - 🌱 I’m currently learning **Advanced web development techniques**
 
-- 👯 I’m looking to collaborate on [Challenging Projects,New Innovations](https://github.com/gopalareddy329/AI-Powered-Online-Exam-Project.git)
+- 👯 I’m looking to collaborate on [Challenging Projects,New Innovations](https://github.com/gopalareddy329/ecommerce-fullstack.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopalareddy329](https://github.com/gopalareddy329)
 
-- 💬 Ask me about **Python , C, C++, Django, React, Sql, Postgre Sql, Html, Css, JavaScript, Sockets, Threads, Django-Channels, Django-Rest-Frame-Work**
+- 💬 Ask me about **Python , C, C++, Django, React, Sql, Postgre Sql, React, Html, Css, JavaScript, Sockets, Threads, Django-Channels, Django-Rest-Frame-Work**
 
 - 📫 How to reach me **pmallireddy329@gmail.com**
 
